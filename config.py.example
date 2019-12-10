@@ -1,0 +1,5 @@
+# copy this to config.py
+
+BASE_URL = 'https://pad.mainframe.io'
+MAX_PADS = 50
+STORE_TO = '/tmp/export'
